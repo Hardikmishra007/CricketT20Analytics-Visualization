@@ -32,7 +32,7 @@ It leverages Python-based analysis and Power BI/Tableau dashboards to provide in
 ---
 
 ### 📂 Project Structure
-
+```
 Cricket-T20-Analytics-Visualization/
 ├── data/                     # Raw & cleaned cricket datasets
 │   ├── matches.csv
@@ -56,7 +56,7 @@ Cricket-T20-Analytics-Visualization/
 │
 ├── README.md                 # Project documentation
 └── LICENSE                   # License file
-
+```
 
 
 
